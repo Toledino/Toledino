@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Arduino`**
 
-No TOLEDINO, transformamos curiosidade em conhecimento! Somos especialistas em Kits de Arduino Educacional que levam a eletrônica, a programação e a cultura Maker direto para a sala de aula ou para casa. Nossa missão é clara: fornecer ferramentas práticas e "legais" que inspiram a próxima geração de inventores e solucionadores de problemas. Comece a criar o futuro hoje!O meu canal no YouTube "[Toledino](https://www.youtube.com/@toledino-q4b)", estão os kits desenvolvidos, e também através do Instagram, com o perfil chamado "[Toledino](https://www.instagram.com/toledino.arduino/)".
+No TOLEDINO, transformamos curiosidade em conhecimento! Somos especialistas em Kits de Arduino Educacional que levam a eletrônica, a programação e a cultura Maker direto para a sala de aula ou para casa. Nossa missão é clara: fornecer ferramentas práticas e "legais" que inspiram a próxima geração de inventores e solucionadores de problemas. Comece a criar o futuro hoje!Estamos no YouTube "[Toledino](https://www.youtube.com/@toledino-q4b)" e também noo Instagram, com o perfil chamado "[Toledino](https://www.instagram.com/toledino.arduino/)".
 
 
 <p align="left">
